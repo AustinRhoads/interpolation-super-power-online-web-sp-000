@@ -9,3 +9,4 @@ def display_rainbow(ary)
   puts "V: #{ary[6]}"
 end
 colors = ["red","orange","yellow","green","blue","indigo","violet"]
+display_rainbow(colors)
