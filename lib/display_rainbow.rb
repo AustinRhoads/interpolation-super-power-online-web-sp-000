@@ -6,7 +6,7 @@ def display_rainbow(ary)
   print "G: #{ary[3]}, "
   print "B: #{ary[4]}, "
   print "I: #{ary[5]}, "
-  print "V: #{ary[6]}"
+  print "V: #{ary[6]}\n"
 end
 colors = ["red","orange","yellow","green","blue","indigo","violet"]
 display_rainbow(colors)
