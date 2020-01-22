@@ -8,5 +8,5 @@ def display_rainbow(ary)
   print "I: #{ary[5]}, "
   print "V: #{ary[6]}, "
 end
-colors = ["red","orange","yellow","green","blue","indigo","violet\n"]
-display_rainbow(colors)
+colors = ["red","orange","yellow","green","blue","indigo","violet"]
+display_rainbow(["red","orange","yellow","green","blue","indigo","violet"])
